@@ -18,6 +18,15 @@ Bootstrap
 
 Java Script
 
+## Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows
+
+MAC
+
+Linux
+
 ## Features:
 
 1-Client-Side
