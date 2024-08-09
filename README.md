@@ -4,6 +4,20 @@ The Real Estate Management System in PHP project includes all the essential feat
 
 <img width="956" alt="Screenshot 2024-07-09 145857" src="https://github.com/user-attachments/assets/539fc581-fbe6-4ceb-ba50-bf84afcf436c">
 
+## Technologies:
+
+HTML: Page layout and design
+
+CSS: Design
+
+JS: Fontend
+
+PHP: Backend
+
+Bootstrap
+
+Java Script
+
 ## Features:
 
 1-Client-Side
